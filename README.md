@@ -9,10 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Firebase+Enthusiast;Clean+Architecture+Learner;Building+Scalable+Mobile+Apps" />
 </p>
 
-
-# 👋 Hi there
-
-I'm **Shyamjith Haridas**, a passionate Flutter Developer and mobile application enthusiast.  
+A passionate Flutter Developer and mobile application enthusiast.  
 Currently focused on building scalable, production-ready mobile applications using modern architecture principles.
 
 With hands-on experience in real-world projects including ERP systems, marketplace apps, and secure communication platforms, I enjoy solving complex problems and turning ideas into reliable digital products.

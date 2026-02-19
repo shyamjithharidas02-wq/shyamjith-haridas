@@ -78,7 +78,10 @@ I strongly believe in continuous learning, clean architecture, and improving dev
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/shyamjith-haridas/shyamjith-haridas/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shyamjith-haridas/shyamjith-haridas/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 ---
 

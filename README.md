@@ -105,18 +105,19 @@ I strongly believe in continuous learning, clean architecture, and improving dev
 
 ## 📬 How to reach me
 
-**Email:** shyamjith.haridas02@gmail.com  
-**LinkedIn:** www.linkedin.com/in/shyamjithharidas 
-**Location:** Kerala, India  
+Email: [shyamjith.haridas02@gmail.com](mailto:shyamjith.haridas02@gmail.com) | 
+LinkedIn: [www.linkedin.com/in/shyamjithharidas](https:www.linkedin.com/in/shyamjithharidas) | 
+Location: Kerala, India
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shyamjithharidas02-wq&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shyamjithharidas02-wq&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
 <p align="center">
-  ⭐ Building by brick by brick
+  ⭐ Building brick by brick
 </p>
+
 
 ---

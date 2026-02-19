@@ -1,3 +1,8 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shyamjith-haridas/shyamjith-haridas/main/banner.png" alt="banner" width="100%" />
+</p>
+
 # 👋 Hi there
 
 I'm **Shyamjith Haridas**, a passionate Flutter Developer and mobile application enthusiast.  
@@ -15,13 +20,26 @@ With practical experience in Firebase integrations, REST API communication, and 
 
 Throughout my development journey, I have:
 
-- Built real-time marketplace applications
-- Integrated secure authentication & payment systems
-- Implemented in-app purchases and multi-language support
-- Designed scalable backend communication structures
-- Worked with Django-based ERP systems and Agora SDK integrations
+- Built real-time marketplace applications  
+- Integrated secure authentication & payment systems  
+- Implemented in-app purchases and multi-language support  
+- Designed scalable backend communication structures  
+- Worked with Django-based ERP systems and Agora SDK integrations  
 
 I strongly believe in continuous learning, clean architecture, and improving development standards with every project.
+
+---
+
+## 📊 GitHub Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamjith-haridas&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamjith-haridas&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyamjith-haridas&theme=react-dark" />
+</p>
 
 ---
 

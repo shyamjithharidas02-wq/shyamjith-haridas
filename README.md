@@ -47,25 +47,58 @@ I strongly believe in continuous learning, clean architecture, and improving dev
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Tech Stack
 
-### 📱 Mobile
+### 💻 Languages & Core
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🔥 Backend as a Service (BaaS)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FF7139?style=for-the-badge&logo=firebase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### 🎨 Frontend & UI
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-FF6F00?style=for-the-badge)
-![Riverpod](https://img.shields.io/badge/Riverpod-00BFA5?style=for-the-badge)
-![BLoC](https://img.shields.io/badge/BLoC-00599C?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+### ☁ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+### ⚙ Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
+### 🧪 Testing
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+---
+
+### 🛠 Tools & Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
@@ -76,13 +109,30 @@ I strongly believe in continuous learning, clean architecture, and improving dev
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shyamjithharidas02-wq/shyamjith-haridas/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
+---
 
 ---
 
-> "Consistency and continuous learning build strong developers."
+## 📬 How to reach me
+
+**Email:** shyamjith.haridas02@gmail.com  
+**LinkedIn:** www.linkedin.com/in/shyamjithharidas 
+**Location:** Kerala, India  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shyamjithharidas02-wq&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
+</p>
+
+<p align="center">
+  ⭐ Building by brick by brick
+</p>
+
+---

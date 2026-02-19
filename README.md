@@ -42,7 +42,7 @@ I strongly believe in continuous learning, clean architecture, and improving dev
 </p> 
 
 <p align="center">
-  <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=shyamjith-haridas&theme=react-dark" />
+  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=shyamjith-haridas&theme=react-dark" />
 </p>
 
 ---

@@ -1,4 +1,3 @@
-# shyamjith-haridas
 # Hi 👋, I'm Shyamjith Haridas
 
 🚀 Flutter Developer | Firebase | REST API | Provider | BLoC  

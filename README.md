@@ -80,7 +80,7 @@ In addition to development, I have mentored and trained aspiring developers, gui
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyamjith-haridas/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyamjith-haridas/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shyamjith.haridas02@gmail.com)
 ![Discord](https://img.shields.io/badge/Discord-shyam096799-5865F2?style=flat&logo=discord&logoColor=white)
 

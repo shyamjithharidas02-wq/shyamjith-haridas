@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/shyamjith-haridas/shyamjith-haridas/main/banner.png" alt="banner" width="100%" />
-</p>
+</p> -->
 
 # 👋 Hi there
 
@@ -48,22 +48,16 @@ I strongly believe in continuous learning, clean architecture, and improving dev
 ### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🔥 Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FF7139?style=for-the-badge&logo=firebase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🏗 Architecture
 ![Provider](https://img.shields.io/badge/Provider-FF6F00?style=for-the-badge)
 ![Riverpod](https://img.shields.io/badge/Riverpod-00BFA5?style=for-the-badge)
 ![BLoC](https://img.shields.io/badge/BLoC-00599C?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
-
-### ⚙ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)

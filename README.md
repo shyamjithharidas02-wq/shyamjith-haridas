@@ -49,7 +49,7 @@ I strongly believe in continuous learning, clean architecture, and improving dev
 
 ## 🛠 Tech Stack
 
-💻 Languages & Core
+# Languages & Core
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)

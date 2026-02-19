@@ -3,6 +3,13 @@
   <img src="https://raw.githubusercontent.com/shyamjith-haridas/shyamjith-haridas/main/banner.png" alt="banner" width="100%" />
 </p> -->
 
+<h1 align="center">Hi 👋, I'm Shyamjith Haridas</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Firebase+Enthusiast;Clean+Architecture+Learner;Building+Scalable+Mobile+Apps" />
+</p>
+
+
 # 👋 Hi there
 
 I'm **Shyamjith Haridas**, a passionate Flutter Developer and mobile application enthusiast.  

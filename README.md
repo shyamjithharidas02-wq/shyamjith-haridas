@@ -36,9 +36,13 @@ I strongly believe in continuous learning, clean architecture, and improving dev
 
 ## 📊 GitHub Status
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shyamjith-haridas&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamjith-haridas&theme=radical" />
+</p> -->
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shyamjith-haridas&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamjith-haridas&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -73,6 +77,12 @@ I strongly believe in continuous learning, clean architecture, and improving dev
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/shyamjith-haridas/shyamjith-haridas/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

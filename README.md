@@ -36,17 +36,13 @@ I strongly believe in continuous learning, clean architecture, and improving dev
 
 ## 📊 GitHub Status
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shyamjith-haridas&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamjith-haridas&theme=radical" />
-</p> -->
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shyamjith-haridas&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamjith-haridas&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyamjith-haridas&theme=react-dark" />
+  <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=shyamjith-haridas&theme=react-dark" />
 </p>
 
 ---

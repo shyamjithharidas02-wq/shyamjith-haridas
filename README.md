@@ -18,19 +18,9 @@ With hands-on experience in real-world projects including ERP systems, marketpla
 
 ## 🚀 Expertise
 
-Passionate about crafting scalable and maintainable mobile applications. I specialize in Flutter development, integrating modern state management solutions and backend services to deliver smooth and efficient user experiences.
+Flutter Developer with hands-on experience building scalable mobile applications using Flutter, Dart, and Firebase. Skilled in REST API integration, state management (Provider & BLoC), and clean architecture principles. Experienced in developing real-world solutions including marketplace apps, ERP systems, and real-time communication platforms.
 
-With practical experience in Firebase integrations, REST API communication, and real-time features like chat and notifications, I focus on writing clean, structured, and performance-optimized code.
-
-Throughout my development journey, I have:
-
-- Built real-time marketplace applications  
-- Integrated secure authentication & payment systems  
-- Implemented in-app purchases and multi-language support  
-- Designed scalable backend communication structures  
-- Worked with Django-based ERP systems and Agora SDK integrations  
-
-I strongly believe in continuous learning, clean architecture, and improving development standards with every project.
+In addition to development, I have mentored and trained aspiring developers, guiding them through Flutter fundamentals, architecture concepts, and real-world project implementation. I focus on writing maintainable code, improving development standards, and continuously growing both as a developer and a mentor.
 
 ---
 

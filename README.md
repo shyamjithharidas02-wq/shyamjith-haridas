@@ -106,7 +106,7 @@ I strongly believe in continuous learning, clean architecture, and improving dev
 ## 📬 How to reach me
 
 Email: [shyamjith.haridas02@gmail.com](mailto:shyamjith.haridas02@gmail.com) | 
-LinkedIn: [shyamjithharidas](https:www.linkedin.com/in/shyamjithharidas) | 
+LinkedIn: [www.linkedin.com/in/shyamjithharidas](https:www.linkedin.com/in/shyamjithharidas) | 
 Location: Kerala, India
 
 ---
